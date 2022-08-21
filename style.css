@@ -19,6 +19,7 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+/* -----------Categories css section start here--------------- */
 .cat-1, .cat-2, .cat-3{
     padding: 10px 30px;
     border-radius: 10px;
@@ -37,4 +38,30 @@ background-color: blue;
 }
 .categories img{
     width: 100px;
+}
+/* -----------shoes Categories card css section start here--------------- */
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+/* -----------backpack Categories card css section start here--------------- */
+.card-footer{
+    border: none;
+    background-color: white;
+
+}
+
+/*----------subscribe section start here-------------*/
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+#subscribe button{
+    margin-top: 10px;
+}
+footer{
+    text-align: center;
 }
